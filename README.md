@@ -7,3 +7,7 @@ This repository contains a simple web application built with Streamlit that uses
 - Utilizes the `bert-base-uncased` pre-trained model from the Hugging Face Transformers library.
 - Allows user input for sentences with a masked token (`[MASK]`).
 - Displays the predicted token to replace the `[MASK]`.
+
+## Contact
+
+For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/dharmendra-behara-230388239/).
